@@ -14,7 +14,8 @@ Você pode acessar o código do projeto <a href="https://github.com/ResendeG/Fru
 
 <h2> :speech_balloon: Tecnologias utilizadas </h2>
 
-<img src="https://github.com/ResendeG/Fruta-Fruto/assets/109033101/dd19759b-791f-4a30-9436-50771e3606fb.png" width=150>
+<img src="https://user-images.githubusercontent.com/109033101/233857262-b95a98cb-745b-40c7-ae99-b864b130bd72.png" width=150>
+
 <h2> :books: Autor </h2
 
 | [<img src="https://avatars.githubusercontent.com/u/109033101?v=4" width=100><br><sub>Gabriel Resende</sub>](https://github.com/ResendeG) |
