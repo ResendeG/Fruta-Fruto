@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.img-carrossel1 {
+    object-fit: cover;
+    object-position: 0 90%;
+    height: 400px;
+}
+
+.img-carrossel2 {
+    object-fit: cover;
+    height: 400px;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial {
+    color: darkred;
+}
+
+.cor-preto {
+    color: black;;
+}
+
+.bg-cinza {
+    background-color: #d4d4d4;
+}
+
+.card-largura {
+    max-width: 18rem;
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: #FFFFFF;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+.btn {
+    border: 2px solid transparent;
+}
+.btn:hover {
+    cursor: pointer;
+    background-color: #000000;
+    border: 2px solid darkred;
+    color: #FFFFFF;
+}
+
+.img-card {
+    object-fit: cover;
+    height: 200px;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+
+.navbar-toggler:hover {
+    border: 2px solid darkred;
+    background: rgba(255, 228, 228, 0.973);
+}
+
+.navbar-brand:hover {
+    color: rgb(228, 4, 4);
+}
+
+.nav-link {
+    position: relative;
+    text-decoration: none;
+    margin-right: 2rem;
+    padding: 0.2rem;
+}
+
+.nav-link::after {
+    content: " ";
+    width: 0%;
+    height: 2px;
+    background-color: rgb(228, 4, 4);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: 0.2s ease-in-out;
+}
+
+.nav-link:hover::after {
+    width: 100%;
+}
+
+.nav-link:hover {
+    color: darkred;
+}
+
+.nav-link:focus {
+    color: black;
+}
+
+.form-control:focus {
+    box-shadow: none7;
+}
+
+.btn-fechar {
+    border: 2px solid transparent;
+    padding: 0.45rem 0.75rem;
+    border-radius: 5px;
+}
+
+.btn-fechar:hover {
+    border: 2px solid rgb(0, 0, 0);
+    background: rgb(0, 0, 0);
+    color: #FFFFFF;
+}
