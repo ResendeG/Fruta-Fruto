@@ -8,7 +8,7 @@ Nesse projeto foi construído uma Landing Page responsiva utilizando HTML, CSS e
 
 <h3>Resultado:</h3>
 
-https://github.com/ResendeG/Fruta-Fruto/assets/109033101/adaa7bf5-fbe7-4c35-bf24-0e824d99098b
+https://github.com/ResendeG/Fruta-Fruto/assets/109033101/553c12bc-8569-4e6a-822a-0596444ff1ab
 
 Você pode acessar o código do projeto <a href="https://github.com/ResendeG/Fruta-Fruto">aqui</a> ou acessar o <a href="https://fruta-fruto-sand.vercel.app/">site</a>!
 
